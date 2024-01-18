@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{Alpher02}
+A.~Witkin.
+\newblock Scale-space filtering: A new approach to multi-scale description.
+\newblock 9:150--153, 1984.
+
+\bibitem{siftblog}
+Crystal.
+\newblock A summary of commonly used traditional image processing methods,
+  2023.
+
+\bibitem{Alpher03}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock 1:886--893 vol. 1, 2005.
+
+\bibitem{exampleblog}
+MaWB.
+\newblock Introduction to image feature engineering: Hog feature descriptor,
+  2023.
+
+\bibitem{Alpher04}
+Y.~Lecun, L.~Bottou, Y.~Bengio, and P.~Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{Alpher05}
+Jeffrey~L Elman.
+\newblock Finding structure in time.
+\newblock {\em Cognitive science}, 14(2):179--211, 1990.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{dosovitskiy2020image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock {\em arXiv preprint arXiv:2010.11929}, 2020.
+
+\bibitem{ganin2016domain}
+Yaroslav Ganin, Evgeniya Ustinova, Hana Ajakan, Pascal Germain, Hugo
+  Larochelle, Fran{\c{c}}ois Laviolette, Mario March, and Victor Lempitsky.
+\newblock Domain-adversarial training of neural networks.
+\newblock {\em Journal of machine learning research}, 17(59):1--35, 2016.
+
+\bibitem{sun2016deep}
+Baochen Sun and Kate Saenko.
+\newblock Deep coral: Correlation alignment for deep domain adaptation.
+\newblock In {\em Computer Vision--ECCV 2016 Workshops: Amsterdam, The
+  Netherlands, October 8-10 and 15-16, 2016, Proceedings, Part III 14}, pages
+  443--450. Springer, 2016.
+
+\end{thebibliography}
